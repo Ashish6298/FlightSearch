@@ -6,6 +6,11 @@
 Dive into the Flight Search App, a Vite-powered React masterpiece! Watch animated planes glide across a gradient sky as you search for flights by origin, destination, dates, and travelers. With built-in validation (no past dates!) and a glassmorphism UI, this app blends functionality with flair. Perfect for travel enthusiasts, it’s designed to soar on any device!
 🚢 Features
 
+## DEPLOYED LINK ⬇️⬇️⬇️:
+
+https://flight-search-henna.vercel.app/
+
+##
 ## Dynamic Sky Canvas: Moving planes animate your background! 🎆
 Responsive Magic: Flawless on mobile, tablet, and desktop with Tailwind CSS. 📱💻
 Smart Validation: Blocks past dates and ensures valid inputs with real-time feedback. ✅
