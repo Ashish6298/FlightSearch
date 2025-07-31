@@ -23,7 +23,7 @@ Get your app flying in minutes! 🌬️
 
 Clone the Repo:
 ```
-git clone https://github.com/your-username/flight-search-app.git
+git clone https://github.com/Ashish6298/FlightSearch
 ```
     cd flight-search-app
   
